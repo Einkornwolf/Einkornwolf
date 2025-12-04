@@ -9,9 +9,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Einkornwolf&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Einkornwolf&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Einkornwolf) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Einkornwolf) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Einkornwolf) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Einkornwolf0) 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Einkornwolf&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Einkornwolf) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Einkornwolf) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Einkornwolf) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Einkornwolf0)
 ---
 [![](https://visitcount.itsvg.in/api?id=Einkornwolf&icon=0&color=0)](https://visitcount.itsvg.in)
 ## 💰 You can help me by Donating
